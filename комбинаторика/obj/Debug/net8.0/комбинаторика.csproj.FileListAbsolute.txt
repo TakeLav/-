@@ -1,0 +1,14 @@
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\bin\Debug\net8.0\комбинаторика.exe
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\bin\Debug\net8.0\комбинаторика.deps.json
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\bin\Debug\net8.0\комбинаторика.runtimeconfig.json
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\bin\Debug\net8.0\комбинаторика.dll
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\bin\Debug\net8.0\комбинаторика.pdb
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\комбинаторика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\комбинаторика.AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\комбинаторика.AssemblyInfo.cs
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\комбинаторика.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\комбинаторика.dll
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\refint\комбинаторика.dll
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\комбинаторика.pdb
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\комбинаторика.genruntimeconfig.cache
+C:\Users\pavlo\source\repos\комбинаторика\комбинаторика\obj\Debug\net8.0\ref\комбинаторика.dll
